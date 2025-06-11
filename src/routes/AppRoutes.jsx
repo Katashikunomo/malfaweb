@@ -1,6 +1,6 @@
 // export default AppRoutes;
 import { lazy, Suspense } from "react"
-import { BrowserRouter, Routes, Route } from "react-router-dom"
+import { BrowserRouter, Routes, Route, Router } from "react-router-dom"
 import Navbar from "../components/header"
 import Footer from "../components/footer"
 import { ScrollToTop } from "../components/ScrollToTop"
