@@ -163,7 +163,7 @@ const EducationSection = () => {
                 <motion.div key={index} variants={cardVariants}>
                   <Card
                     className="!shadow-lg hover:!shadow-2xl !transition-all hover:!-translate-y-2 !duration-500 !border-0 !overflow-hidden"
-                    bodyStyle={{ padding: 0 }}
+                    // bodyStyle={{ padding: 0 }}
                   >
                     <div className="!p-6">
                       <div className="!flex !flex-col sm:!flex-row !gap-4 !mb-4">

@@ -69,7 +69,7 @@ const Banner = () => {
       style={{ y, opacity }}
       className="relative min-h-screen flex items-center justify-center pt-20 pb-16 overflow-hidden"
       initial="hidden"
-      animate={isInView ? "visible" : "hidden"}
+      animate={isInView ? "visible" : "visible"}
       variants={containerVariants}
     >
       {/* Elementos flotantes de fondo */}
