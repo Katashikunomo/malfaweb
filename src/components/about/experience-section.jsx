@@ -167,7 +167,7 @@ const ExperienceSection = () => {
                     className={`!shadow-lg hover:!shadow-2xl !transition-all hover:!-translate-y-2 !duration-500 !border-0 !overflow-hidden ${
                       item.isLatest ? "!ring-2 !ring-orange-200" : ""
                     }`}
-                    bodyStyle={{ padding: 0 }}
+                    // bodyStyle={{ padding: 0 }}
                   >
                     <div className="!p-6">
                       <div className="!flex !items-center !gap-4 !mb-4">

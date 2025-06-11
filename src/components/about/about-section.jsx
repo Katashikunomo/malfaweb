@@ -74,7 +74,7 @@ const AboutSection = () => {
       className="!py-8 sm:!py-12 lg:!py-20 !bg-gradient-to-br !from-slate-50 !to-blue-50/30 !pt-36 md:!pt-40 lg:!pt-48"
       ref={ref}
       initial="hidden"
-      animate={inView ? "visible" : "hidden"}
+      animate={inView ? "visible" : "visible"}
       variants={containerVariants}
     >
       <div className="container mx-auto !px-4 sm:!px-6 lg:!px-8">
